@@ -1,26 +1,26 @@
 import java.util.Date;
 
 public class Figurinha{
-    private String nome;
-    private Date nascimento;
-    private float altura;
-    private float peso;
-    private String posicao;
-    private String pais;
+    public String nome;
+    public Date nascimento;
+    public float altura;
+    public float peso;
+    public String posicao;
+    public String pais;
 
     public String getNome(){
         return nome;
     }
 
-    public String setNome(){
-        this.nome = nome;
+    public void setNome(String nome){
+         this.nome = nome;
     }
 
     public Date getNasc(){
         return nascimento;
     }
 
-    public Date setNasc(){
+    public void setNasc(Date nascimento){
         this.nascimento = nascimento;
     }
 
@@ -28,7 +28,7 @@ public class Figurinha{
         return altura;
     }
 
-    public float setAltura(){
+    public void setAltura(float altura){
         this.altura = altura;
     }
 
@@ -36,7 +36,7 @@ public class Figurinha{
         return peso;
     }
 
-    public float setPeso(){
+    public void setPeso(float peso){
         this.peso = peso;
     }
 
@@ -44,7 +44,7 @@ public class Figurinha{
         return posicao;
     }
 
-    public String setPosicao(){
+    public void setPosicao(String posicao){
         this.posicao = posicao;
     }
 
@@ -52,7 +52,7 @@ public class Figurinha{
         return pais;
     }
 
-    public String setPais(){
+    public void setPais(String pais){
         this.pais = pais;
     }
 
