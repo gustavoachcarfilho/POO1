@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52218bf9-53f0-47d3-936d-8f2a96664de5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/poo_t3_gustavoachcarfilho.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB01 - Procedural/ex02/src/ex02.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB01 - Procedural/ex02/src/ex02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/.idea/LAB02 - First OOP code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/ex02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB02 - First OOP code/ex02/ex02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/.idea/ex02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/Enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/ex02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/resolucaoex2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/resolucaoex2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/resolucaoex2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/resolucaoex2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB01 - Procedural/resolucaoex2/resolucaoex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex03/principal.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GfSYuwNyz2Fs7VFK0jGtnd166T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Downloads/Faculdade/3º período/poo_t3_gustavoachcarfilho/LAB02 - First OOP code/ex03/ex03/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\Faculdade\3º período\poo_t3_gustavoachcarfilho\LAB02 - First OOP code\ex03\ex03\src" />
+      <recent name="C:\Users\USER\Downloads\Faculdade\3º período\poo_t3_gustavoachcarfilho\LAB02 - First OOP code\ex02\ex02\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\Faculdade\3º período\poo_t3_gustavoachcarfilho\LAB02 - First OOP code\ex01\ex01\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="poo_t3_gustavoachcarfilho" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="poo_t3_gustavoachcarfilho" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52218bf9-53f0-47d3-936d-8f2a96664de5" name="Changes" comment="" />
+      <created>1666778199471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666778199471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,7 +1,9 @@
+package src;
+
 import java.util.Scanner;
 
 public class ex02 {
-    public static float altera_preco(float[] preco, float porcentagem){
+    public static float altera_preco(float preco, float porcentagem){
         float temp;
 
         if(porcentagem >= 100){
