@@ -2,12 +2,14 @@ public class Selecao {
     String nomeSelecao, nomeTecnico;
     Figurinha[] jogadores = new Figurinha[11];
 
-    public Selecao(String nTecnico, String nSelecao, Figurinha[] v){
+
+    public Selecao(String nTecnico, String nSelecao){
+
+        for(int i = 0; i < 11; i++){
+            jogadores[i] = new Figurinha(nSelecao);
+        }
         nomeSelecao = nSelecao;
         nomeTecnico = nTecnico;
-        for(int i = 0; i < 11; i++){
-            jogadores[i] = v[i];
-        }
     }
 
     public void showSelecao(){
