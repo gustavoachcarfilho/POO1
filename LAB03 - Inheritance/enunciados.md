@@ -1,4 +1,4 @@
-# Exercício de herança
+﻿# Exercício de herança
 
 # Ex01 
 (sem herança ainda)
@@ -8,6 +8,8 @@ Relembre o exercício da prática anterior. Nele indicamos que as figurinhas da 
 Agora crie a classe para as figurinhas extras. Essas são bem mais raras e não fazem parte da coleção regular, sendo caracterizadas como uma coleção à parte. Além de todos os atributos das figurinhas regulares, as raras são divididas em duas categorias, "Legends" e "Rookies", e possuem quatro variações de cor: bordô, bronze, prata e ouro". Crie uma classe chamada FigurinhaExtra, que contenha todos atributos da classe Figurinha e acrescente os dois novos atributos. Utilize boas práticas de POO (atributos privados, métodos get/set), crie um construtor que inicializa todos os parâmetros e crie também o método MostrarFigurinha().
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
+
+
 
 # Ex02
 O conceito de herança (inheritance) em POO é muito utilizado para reaproveitamento de código.
@@ -20,6 +22,8 @@ O conceito de herança (inheritance) em POO é muito utilizado para reaproveitam
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
 
+
+
 # Ex03
 - Modifique a classe Figurinha, transformando os atributos *protected* para *private*>*
 - Entenda o erro que ocorre em MostrarFigurinha() da classe FigurinhaExtra com essa modificação
@@ -27,6 +31,8 @@ Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostr
 - Crie um novo construtor, que terá como parâmetro uma Figurinha (normal) e os dois atributo adicionais de FigurinhaExtra. Esse construtor permitirá criar um novo objeto de FigurinhaExtra a partir de um objeto já existente de Figurinha (ou seja, uma figurinha extra de um jogador que já foi criado)
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
+
+
 
 # Ex04
 Teste de chamada de herança
@@ -42,6 +48,8 @@ Teste de chamada de herança
 - Em todas as classes, inclua um método que chama mostar_atributos, que mostra os valores de *todos* os atributos de um objeto (não utilizar super)
     - Lembre que as classes herdam os atributos, inclusive os privados - e esses também devem ser mostrados 
 - Em todas as classes, inclua um método que chama mostar_atributos_super, que mostra os valores de *todos* os atributos de um objeto e que utilize super
+
+
 
 # Ex05
 Uma empresa tem quatro tipos de funcionários: chefes, vendedores, operários e horistas. Cada um desses funcionários ganha seus salários conforme regras distintas, apresentadas a seguir: 
