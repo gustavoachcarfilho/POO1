@@ -7,9 +7,7 @@
     <list default="true" id="bcc8a1f3-8b6c-4b2e-8ada-0505052be3dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/poo_t3_gustavoachcarfilho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/poo_t3_gustavoachcarfilho.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/poo_t3_gustavoachcarfilho/Figurinha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/poo_t3_gustavoachcarfilho/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/poo_t3_gustavoachcarfilho/Selecao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poo_t3_gustavoachcarfilho/Selecao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poo_t3_gustavoachcarfilho/Selecao.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB03 - Inheritance/ex02/LAB03ex02",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
