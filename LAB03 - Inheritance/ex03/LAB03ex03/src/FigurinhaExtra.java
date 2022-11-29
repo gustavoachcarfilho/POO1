@@ -1,3 +1,5 @@
+import java.time.LocalDate;
+
 public class FigurinhaExtra extends Figurinha {
     String categoria, cor;
 
@@ -9,6 +11,7 @@ public class FigurinhaExtra extends Figurinha {
     }
 
     public FigurinhaExtra(Figurinha f, String categoriaJ, String corJ) {
+        super(f.getNome(),f.getPosicao(), f.getPais(), f.getDataNasc().toString(), f.getPeso(), f.getAltura() );
         categoria = categoriaJ;
         cor = corJ;
     }
