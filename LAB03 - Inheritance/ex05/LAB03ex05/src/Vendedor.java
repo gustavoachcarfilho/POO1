@@ -1,29 +1,32 @@
+import java.time.LocalDate;
+
 public class Vendedor extends Funcionarios{
-    private String nome;
-    private String dataNasc;
-    private String salario;
+    private float comissao, vendas;
 
-    public String getNome() {
-        return nome;
+    public Vendedor(String nomeF, LocalDate dataNascimentoF, float salarioF, float comissaoF, float vendasF){
+        super(nomeF, dataNascimentoF, salarioF);
+        this.comissao = comissaoF;
+        this.vendas =vendasF;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public float calculaSalario(){
+        return this.salario + vendas * comissao;
     }
 
-    public String getDataNasc() {
-        return dataNasc;
+
+    public float getComissao() {
+        return comissao;
     }
 
-    public void setDataNasc(String dataNasc) {
-        this.dataNasc = dataNasc;
+    public void setComissao(float comissao) {
+        this.comissao = comissao;
     }
 
-    public String getSalario() {
-        return salario;
+    public float getVendas() {
+        return vendas;
     }
 
-    public void setSalario(String salario) {
-        this.salario = salario;
+    public void setVendas(float vendas) {
+        this.vendas = vendas;
     }
 }

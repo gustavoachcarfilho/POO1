@@ -1,29 +1,32 @@
+import java.time.LocalDate;
+
 public class Horista extends Funcionarios{
-    private String nome;
-    private String dataNasc;
-    private String salario;
+    private float valorHora;
+    private int horasTrab;
 
-    public String getNome() {
-        return nome;
+    public Horista(String nomeF, LocalDate dataNascimentoF, float valorHoraF, int horasTrabF){
+        super(nomeF, dataNascimentoF, 0.0f);
+        this.valorHora = valorHoraF;
+        this.horasTrab = horasTrabF;
     }
 
-    public String getDataNasc() {
-        return dataNasc;
+    public float calculaSalario(){
+        return this.valorHora * this.horasTrab;
     }
 
-    public String getSalario() {
-        return salario;
+    public float getValorHora() {
+        return valorHora;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setValorHora(float valorHora) {
+        this.valorHora = valorHora;
     }
 
-    public void setDataNasc(String dataNasc) {
-        this.dataNasc = dataNasc;
+    public int getHorasTrab() {
+        return horasTrab;
     }
 
-    public void setSalario(String salario) {
-        this.salario = salario;
+    public void setHorasTrab(int horasTrab) {
+        this.horasTrab = horasTrab;
     }
 }

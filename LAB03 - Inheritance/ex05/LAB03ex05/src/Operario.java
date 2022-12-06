@@ -1,29 +1,32 @@
+import java.time.LocalDate;
+
 public class Operario extends Funcionarios{
-    private String nome;
-    private String dataNasc;
-    private String salario;
+    private float producao;
+    private int qtdProd;
 
-    public String getNome() {
-        return nome;
+    public Operario(String nomeF, LocalDate dataNascimentoF, float producaoF, int qtdProdF){
+        super(nomeF, dataNascimentoF, 0.0f);
+        this.producao = producaoF;
+        this.qtdProd = qtdProdF;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public float calculaSalario(){
+        return this.producao * this.qtdProd;
     }
 
-    public String getDataNasc() {
-        return dataNasc;
+    public float getProducao() {
+        return producao;
     }
 
-    public void setDataNasc(String dataNasc) {
-        this.dataNasc = dataNasc;
+    public void setProducao(float producao) {
+        this.producao = producao;
     }
 
-    public String getSalario() {
-        return salario;
+    public int getQtdProd() {
+        return qtdProd;
     }
 
-    public void setSalario(String salario) {
-        this.salario = salario;
+    public void setQtdProd(int qtdProd) {
+        this.qtdProd = qtdProd;
     }
 }
