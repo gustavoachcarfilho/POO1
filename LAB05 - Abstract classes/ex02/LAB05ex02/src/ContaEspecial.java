@@ -16,5 +16,21 @@ public class ContaEspecial extends ContaCorrente{
 
     public ContaComum ParaContaComum(){
         ContaComum tmp = super.conversaoParaContaComum();
+        tmp.setLimite(this.limite);
+        return tmp;
+    }
+
+    public boolean debitaValor ( float val , int pwd ) {
+        if ( isSenha(pwd))
+            return ( false ); // senha deve ser válida
+        if ( super.getEstado(pwd) != 1 )
+            return ( false ); // conta deve ser ativa
+        if ( val <= 0 )
+            return ( false ); // val > 0
+        if ( val > super.getSaldo(pwd) )
+            return ( false );
+
+        super.setSaldoContaEspecial(this, getSaldo(pwd) - val);
+        return ( true ) ;
     }
 }

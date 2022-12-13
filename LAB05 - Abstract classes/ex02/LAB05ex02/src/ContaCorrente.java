@@ -64,4 +64,10 @@ public abstract class ContaCorrente {
     protected ContaComum conversaoParaContaComum(){
         return new ContaComum(saldo, numConta, senha);
     }
+
+    public void setSaldoContaEspecial(ContaEspecial ce, float saldoCE){
+        if(ce instanceof ContaEspecial){
+            saldo = saldoCE;
+        }
+    }
 }

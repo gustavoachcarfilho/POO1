@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea01cf6-cc7c-47f8-b080-002f5ca688fd" name="Changes" comment="" />
+    <list default="true" id="fea01cf6-cc7c-47f8-b080-002f5ca688fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaComum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaComum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/UsaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/UsaBanco.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +25,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB03 - Inheritance/ex05"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB03 - Inheritance/ex05&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
