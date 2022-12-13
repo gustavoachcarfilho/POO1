@@ -2,6 +2,9 @@ import java.time.LocalDate;
 import java.util.Scanner;
 
 public class FaceFriends{
+
+    private static Contato[] vetContatos = new Contato[5];
+    private static int ultimaPos = 0;
     public static void main(String[] args) {
         int opcao;
         String tipoContato;
@@ -12,9 +15,8 @@ public class FaceFriends{
         int grau;
         String tipo;
         String aniversario;
-        int ultimaPos = 0;
 
-        Contato[] vetContatos = new Contato[5];
+
         /*
         vetContatos[0] = new Familia("Buzina", "Gustavo", "gustavofilho@greal.com.br", LocalDate.parse("1997-08-18"), "Irmao");
         vetContatos[1] = new Amigos("Ribeiro", "Matheus", "mribeiro@gmail.com", LocalDate.parse("1999-06-23"), 2);
@@ -90,7 +92,7 @@ public class FaceFriends{
 
         public void imprimirTodosContatos(Contato[] vet){
             for(Contato cont : vet){
-                if
+                if(cont instanceof Familia)
             }
         }
     }
