@@ -3,7 +3,7 @@ public class Cliente implements Classificavel{
 
     public boolean eMenorQue (Classificavel obj){
         Cliente c = (Cliente) obj;
-        if(this.nome.length() < c.nome.length()){
+        if(this.nome.compareTo(c.nome) < 0){
             return true;
         }
         else {

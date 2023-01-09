@@ -8,12 +8,12 @@ public class Classificador {
             menor = a [i + 1];
             pos = i + 1;
             for ( int j = i + 2; j < a . length ; j ++) {
-                if (a[ j ]. eMenorQue ( menor )) {
+                if (a[ j ].eMenorQue ( menor )) {
                     menor = a [j ];
                     pos = j;
                 }
             }
-            if ( menor . eMenorQue ( elem )) {
+            if ( menor.eMenorQue ( elem )) {
                 a[i ] = a[ pos ];
                 a[ pos ] = elem ;
             }

@@ -4,6 +4,11 @@ public class Main {
         Cliente [] vc = new Cliente[3];
         Servico [] vs = new Servico[3];
 
+        /*
+        Classificavel[] vetor = new Classificavel[3];
+        vetor[0] = new Produto(1234);
+        */
+
         vp[0] = new Produto(1111);
         vp[1] = new Produto(3333);
         vp[2] = new Produto(2222);
