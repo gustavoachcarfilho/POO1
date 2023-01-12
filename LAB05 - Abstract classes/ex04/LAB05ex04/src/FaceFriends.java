@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class FaceFriends{
 
-    private static Contato[] vetContatos = new Contato[5];
-    private static int ultimaPos = 0;
+    static int ultimaPos = 0;
     public static void main(String[] args) {
+        Contato[] vetContatos = new Contato[5];
         int opcao;
         String tipoContato;
         String apelido;
@@ -71,6 +71,7 @@ public class FaceFriends{
                 ultimaPos++;
             }
         }
+        /*
         else if(opcao == 2){
             System.out.printf("Lista de todos os contatos\n");
             for(int i = 0; i < ultimaPos; i++){
@@ -104,9 +105,22 @@ public class FaceFriends{
         else if(opcao == 7){
 
         }
+    */
 
+
+<<<<<<< HEAD
         for(int i = 0; i < ultimaPos; i++){
             System.out.printf("%s\n", vetContatos[i].nome);
+=======
+    }
+    public void imprimirTodosContatos(Contato[] vetContatos){
+        for(int i = 0; i < ultimaPos; i++){
+            if(vetContatos[i] instanceof Familia){
+                System.out.printf("Nome: %s\n", vetContatos[i].getNome());
+                System.out.printf("Nome: %s\n", vetContatos[i].getApelido());
+                System.out.printf("Nome: %s\n", vetContatos[i].getEmail());
+            }
+>>>>>>> 7a6651b7ec1348efe3231de89da79aff2addb82b
         }
     }
 }

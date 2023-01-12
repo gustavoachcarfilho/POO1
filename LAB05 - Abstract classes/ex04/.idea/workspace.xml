@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04885d5f-f978-4440-934e-a95d71c9584c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ex04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ex04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LAB05ex04/src/FaceFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB05ex04/src/FaceFriends.java" afterDir="false" />
     </list>
@@ -28,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB05 - Abstract classes/ex04",
+    "last_opened_file_path": "C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB05 - Abstract classes/ex02",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
