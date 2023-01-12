@@ -41,20 +41,20 @@ public class FaceFriends{
         opcao = sc.nextInt();
 
         if(opcao == 1){
-            System.out.println("Escreva qual o tipo do contato (familia/amigos/trabalho):\n");
-            tipoContato = sc.nextLine();
+            System.out.printf("Escreva qual o tipo do contato (familia/amigos/trabalho):\n");
+            tipoContato = sc.next();
             System.out.printf("Digite o apelido:\n");
-            apelido = sc.nextLine();
+            apelido = sc.next();
             System.out.printf("Digite o nome:\n");
-            nome = sc.nextLine();
+            nome = sc.next();
             System.out.printf("Digite o email:\n");
-            email = sc.nextLine();
+            email = sc.next();
             System.out.printf("Digite a data de aniversario:\n");
-            aniversario = sc.nextLine();
+            aniversario = sc.next();
 
             if(tipoContato.equals("familia")){
-                System.out.printf("Digite o grau:\n");
-                parentesco = sc.nextLine();
+                System.out.printf("Digite o parentesco:\n");
+                parentesco = sc.next();
                 vetContatos[ultimaPos] = new Familia(apelido, nome, email, LocalDate.parse(aniversario), parentesco);
                 ultimaPos++;
             }
@@ -66,13 +66,28 @@ public class FaceFriends{
             }
             else if(tipoContato.equals("trabalho")){
                 System.out.printf("Digite o tipo:\n");
-                tipo = sc.nextLine();
+                tipo = sc.next();
                 vetContatos[ultimaPos] = new Trabalho(apelido, nome, email, LocalDate.parse(aniversario), tipo);
                 ultimaPos++;
             }
         }
         else if(opcao == 2){
-
+            System.out.printf("Lista de todos os contatos\n");
+            for(int i = 0; i < ultimaPos; i++){
+                System.out.printf("Nome: %s\n", vetContatos[i].nome);
+                System.out.printf("Apelido: %s\n", vetContatos[i].apelido);
+                System.out.printf("Email: %s\n", vetContatos[i].email);
+                System.out.printf("Aniversario: %s\n", vetContatos[i].aniversario.toString());
+                if(vetContatos[i] instanceof Familia){
+                    System.out.printf("Parentesco: %s\n", ((Familia) vetContatos[i]).getParentesco());
+                }
+                else if(vetContatos[i] instanceof Amigos){
+                    System.out.printf("Grau: %d\n", ((Amigos) vetContatos[i]).getGrau());
+                }
+                else if(vetContatos[i] instanceof Trabalho){
+                    System.out.printf("Tipo: %s\n", ((Trabalho) vetContatos[i]).getTipo());
+                }
+            }
         }
         else if(opcao == 3){
 
@@ -90,10 +105,8 @@ public class FaceFriends{
 
         }
 
-        public void imprimirTodosContatos(Contato[] vet){
-            for(Contato cont : vet){
-                if(cont instanceof Familia)
-            }
+        for(int i = 0; i < ultimaPos; i++){
+            System.out.printf("%s\n", vetContatos[i].nome);
         }
     }
 }
