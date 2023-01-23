@@ -26,4 +26,12 @@ public class Amigos extends Contato{
         c[last] = new Amigos(apelido, nome, email, aniversario, grau);
         return (Amigos) c[last];
     }
+
+    public int getGrau() {
+        return grau;
+    }
+
+    public void setGrau(int grau) {
+        this.grau = grau;
+    }
 }
