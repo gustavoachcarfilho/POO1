@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# Exercício de herança
+=======
+# Exercício de herança
+>>>>>>> 2968f1c6469e125614a059364fb9263d5c243349
 
 # Ex01 
 (sem herança ainda)
@@ -9,8 +13,11 @@ Agora crie a classe para as figurinhas extras. Essas são bem mais raras e não 
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2968f1c6469e125614a059364fb9263d5c243349
 # Ex02
 O conceito de herança (inheritance) em POO é muito utilizado para reaproveitamento de código.
 
@@ -22,8 +29,11 @@ O conceito de herança (inheritance) em POO é muito utilizado para reaproveitam
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2968f1c6469e125614a059364fb9263d5c243349
 # Ex03
 - Modifique a classe Figurinha, transformando os atributos *protected* para *private*>*
 - Entenda o erro que ocorre em MostrarFigurinha() da classe FigurinhaExtra com essa modificação
@@ -32,8 +42,11 @@ Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostr
 
 Faça um programa principal que cria uma Figurinha e uma FigurinhaExtra, e mostre os dados das figurinhas criadas
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2968f1c6469e125614a059364fb9263d5c243349
 # Ex04
 Teste de chamada de herança
  Faça um programa que contenha três classes: C1; C2; C3
@@ -49,8 +62,11 @@ Teste de chamada de herança
     - Lembre que as classes herdam os atributos, inclusive os privados - e esses também devem ser mostrados 
 - Em todas as classes, inclua um método que chama mostar_atributos_super, que mostra os valores de *todos* os atributos de um objeto e que utilize super
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2968f1c6469e125614a059364fb9263d5c243349
 # Ex05
 Uma empresa tem quatro tipos de funcionários: chefes, vendedores, operários e horistas. Cada um desses funcionários ganha seus salários conforme regras distintas, apresentadas a seguir: 
 

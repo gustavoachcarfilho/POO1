@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc8a1f3-8b6c-4b2e-8ada-0505052be3dd" name="Changes" comment="">
+    <list default="true" id="fea01cf6-cc7c-47f8-b080-002f5ca688fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaComum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaComum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/ContaEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/UsaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LAB05 - Abstract classes/ex02/LAB05ex02/src/UsaBanco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2H4ntIwJAFp262262G9JMJABbl1" />
+  <component name="ProjectId" id="2IpVSHC8sUX8ee665LvqmDFFizG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,20 +29,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gustavofilho/Downloads/Faculdade/GitHub POO/poo1_t3_gustavoachcarfilho&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gustavofilho/Downloads/GitHub POO/poo1_t3_gustavoachcarfilho/LAB03 - Inheritance/ex05&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bcc8a1f3-8b6c-4b2e-8ada-0505052be3dd" name="Changes" comment="" />
-      <created>1667553441624</created>
+      <changelist id="fea01cf6-cc7c-47f8-b080-002f5ca688fd" name="Changes" comment="" />
+      <created>1670878510086</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667553441624</updated>
+      <updated>1670878510086</updated>
     </task>
     <servers />
   </component>
